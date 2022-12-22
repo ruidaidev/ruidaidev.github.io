@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: About
-permalink: /about/
+title: About2
+permalink: /about2/
+entries_layout: grid
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
